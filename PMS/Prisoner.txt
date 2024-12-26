@@ -1,0 +1,198 @@
+1
+Danny
+Robbery
+3
+1
+Open Custody
+2
+John
+Robbery
+5
+2
+Restricted Custody
+3
+Alice
+Fraud
+3
+1
+Open Custody
+4
+Bob
+Robbery
+7
+3
+Solitary Confinement
+5
+Sarah
+Robbery
+4
+2
+Restricted Custody
+6
+David
+Assault
+6
+2
+Restricted Custody
+7
+Emma
+Cyber
+8
+3
+Solitary Confinement
+8
+Jake
+Murder
+12
+3
+Solitary Confinement
+9
+Sophia
+Fraud
+2
+1
+Open Custody
+10
+Liam
+Robbery
+3
+1
+Open Custody
+11
+Olivia
+Cyber
+9
+3
+Solitary Confinement
+12
+Noah
+Assault
+5
+2
+Restricted Custody
+13
+Emma
+Robbery
+7
+3
+Solitary Confinement
+14
+Mason
+Murder
+10
+3
+Solitary Confinement
+15
+Ava
+Robbery
+6
+2
+Restricted Custody
+16
+Lucas
+Fraud
+4
+1
+Open Custody
+17
+Isaac
+Assault
+8
+3
+Solitary Confinement
+18
+Ethan
+Cyber
+12
+3
+Solitary Confinement
+19
+Martin
+Robbery
+3
+1
+Open Custody
+21
+Ella
+Robbery
+9
+3
+Solitary Confinement
+22
+Benzema
+Cyber
+4
+1
+Open Custody
+23
+Amelia
+Assault
+7
+3
+Solitary Confinement
+24
+Henry
+Cyber
+6
+2
+Restricted Custody
+25
+Charlie
+Robbery
+8
+3
+Solitary Confinement
+26
+Alex
+Fraud
+2
+1
+Open Custody
+27
+Harper
+Robbery
+3
+1
+Open Custody
+28
+William
+Assault
+10
+3
+Solitary Confinement
+29
+Tinker
+Murder
+8
+3
+Solitary Confinement
+30
+Tyler
+Murder
+1
+3
+Solitary Confinement
+32
+Rey
+Fraud
+3
+2
+Restricted Custody
+33
+Larry
+Cyber
+8
+1
+Open Custody
+34
+Quart
+Murder
+12
+1
+Open Custody
+35
+Aayan
+Murder
+4
+1
+Open Custody
